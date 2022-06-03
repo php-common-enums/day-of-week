@@ -2,10 +2,6 @@
 
 Provides a backed enum for days of the week.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 Since [backed enumerations](https://www.php.net/manual/en/language.enumerations.backed.php) were introduced in PHP 8.1, you will need at least that version of PHP.
